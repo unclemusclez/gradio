@@ -1,5 +1,18 @@
 # gradio
 
+## 5.33.1
+
+### Features
+
+- [#11237](https://github.com/gradio-app/gradio/pull/11237) [`a6f6b40`](https://github.com/gradio-app/gradio/commit/a6f6b40dda5194fa5bc9926ef67f2a75f503e9a4) - Enhance boolean cell types in `gr.Dataframe`.  Thanks @hannahblair!
+
+### Fixes
+
+- [#11350](https://github.com/gradio-app/gradio/pull/11350) [`9af8fc1`](https://github.com/gradio-app/gradio/commit/9af8fc1583c69f5f10ecfcd1c95f365525a99c83) - Be Able to launch MCP server when mounting in FastAPI app.  Thanks @freddyaboulton!
+- [#11344](https://github.com/gradio-app/gradio/pull/11344) [`b961441`](https://github.com/gradio-app/gradio/commit/b961441780d70c82504141bd4deae7b3290c2227) - Fixes default tab label.  Thanks @dawoodkhan82!
+- [#11347](https://github.com/gradio-app/gradio/pull/11347) [`fdce3a0`](https://github.com/gradio-app/gradio/commit/fdce3a094fe1278ae83fe2f8b134b4c268506cfe) - Fix `gr.api()` to support more types, including optional params.  Thanks @abidlabs!
+- [#11338](https://github.com/gradio-app/gradio/pull/11338) [`b31c3ed`](https://github.com/gradio-app/gradio/commit/b31c3edef97373b96f188072d5bb16db9d690261) - Fix Reload Mode when using gr.render.  Thanks @freddyaboulton!
+
 ## 5.33.0
 
 ### Features

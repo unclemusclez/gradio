@@ -1,5 +1,11 @@
 # @gradio/fileexplorer
 
+## 0.5.31
+
+### Dependency updates
+
+- @gradio/checkbox@0.4.23
+
 ## 0.5.30
 
 ### Dependency updates
